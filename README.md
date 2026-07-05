@@ -109,8 +109,3 @@ npm run dev
 - 📅 Reminders
 - ⭐ Favorite Notes
 - 📤 Export Notes
-- 📱 Progressive Web App (PWA)
-
-
-
-
