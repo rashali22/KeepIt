@@ -21,7 +21,9 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://keep-ofjnjl8bh-rashali22s-projects.vercel.app",
+    origin:[ "https://keep-it-rho.vercel.app",
+      "https://keep-ofjnjl8bh-rashali22s-projects.vercel.app"
+    ]
   })
 );
 
