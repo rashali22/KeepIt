@@ -21,7 +21,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "*",
+    origin: "https://keep-ofjnjl8bh-rashali22s-projects.vercel.app",
   })
 );
 
